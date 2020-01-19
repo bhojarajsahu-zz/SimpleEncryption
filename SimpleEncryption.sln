@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionDecryption", "EncryptionDecryption\EncryptionDecryption.csproj", "{0F64EBE9-0711-4A33-9FCE-E32132B0BCDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEncryptionApp", "SimpleEncryptionApp\SimpleEncryptionApp.csproj", "{EB815F50-AA7D-405D-81EC-DD89D806EE5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption-Decryption", "Encryption-Decryption\Encryption-Decryption.csproj", "{6036DCAB-64A6-4A41-AF55-08004300D204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F64EBE9-0711-4A33-9FCE-E32132B0BCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F64EBE9-0711-4A33-9FCE-E32132B0BCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F64EBE9-0711-4A33-9FCE-E32132B0BCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F64EBE9-0711-4A33-9FCE-E32132B0BCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB815F50-AA7D-405D-81EC-DD89D806EE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB815F50-AA7D-405D-81EC-DD89D806EE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB815F50-AA7D-405D-81EC-DD89D806EE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB815F50-AA7D-405D-81EC-DD89D806EE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6036DCAB-64A6-4A41-AF55-08004300D204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6036DCAB-64A6-4A41-AF55-08004300D204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6036DCAB-64A6-4A41-AF55-08004300D204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6036DCAB-64A6-4A41-AF55-08004300D204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
